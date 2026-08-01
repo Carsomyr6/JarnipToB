@@ -8,7 +8,7 @@ Introduction
 
 This mod brings **Jarnip**, the merchant introduced in my previous mod, into the *Throne of Bhaal* campaign. Trapped within the besieged city of Saradush, Jarnip is desperate to escape and willing to sell some of the greatest treasures from his collection at a considerable discount.
 
-Have you ever felt that your character's equipment does not live up to the epic scale of Throne of Bhaal? Why do some weapon types get iconic legendary options while others are left behind? To address this issue, this mod will introduce six new legendary, artifact-quality weapons worthy of a Bhaalspawn on the path to ascension. Rather than simply introducing more powerful equipment, this mod is intended to introduce unique and memorable weapons while remaining balanced and faithful to the design philosophy of the expansion. I take game balance extremely seriously and will take time to balance this weapon pack.
+Have you ever felt that your character's equipment does not live up to the epic scale of Throne of Bhaal? Why do some classes get iconic legendary weapons while others are left behind? To address this issue, this mod will introduce six new legendary, artifact-quality weapons worthy of a Bhaalspawn on the path to ascension. Rather than simply introducing more powerful equipment, this mod is intended to introduce unique and memorable weapons while remaining balanced and faithful to the design philosophy of the expansion. I take game balance extremely seriously and will take time to balance this weapon pack.
 
 Planned Features
 

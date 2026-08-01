@@ -15,7 +15,7 @@ Equipped abilities:
 - Characters of Good or Neutral alignment are executed upon equipping this weapon
 
 Combat abilities:
-- Dooming Presence: 50% chance on hit the target panics and receives a a -1 penalty to Armor Class, hit rolls, and damage rolls 2 rounds
+- Dooming Presence: 50% chance on hit to cause the target to panic and give a -1 penalty to Armor Class, hit rolls, and damage rolls 2 rounds
 - Dread Vengeance: On a critical hit, all enemies within a 15-ft. radius panic and receive a -2 penalty to Armor Class, hit rolls, and damage rolls for 1 turn
 
 THAC0: +5 
@@ -33,7 +33,7 @@ Price: 40,000 gp
 ========
 
 The Triumphant +4
-The Triumphant is a weapon of heroic proportions, perhaps one of the most powerful blades ever forged in the Realms. According to legend, it first belonged to a barbarian king of Narfell who perished while defending his homeland from an invading horde of demons from the Endless Wastes. The sword was said to have been found on the battlefield after its wielder had single-handedly broken an entire army. No body was ever found. Only the sword remained, lying amid the dead.
+Few weapons have inspired as many tales as the Triumphant. According to legend, it first belonged to a barbarian king of Narfell who perished while defending his homeland from an invading horde of demons from the Endless Wastes. The sword was said to have been found on the battlefield after its wielder had single-handedly broken an entire army. No body was ever found. Only the sword remained, lying amid the dead.
 
 Since that time, The Triumphant has appeared in countless sagas of the northern barbarian tribes, becoming a symbol of might and perseverance. Some say that whoever claims the sword is destined for greatness, while others believe that the blade simply finds those who are worthy of it.
 
@@ -71,7 +71,7 @@ Equipped Abilities:
 - Armor Class: +2
 - Attacks per round: +1
 
-Charge Abilities:
+Special Abilities:
 - Casts Mirror Image two times per day
 
 THAC0: +3
@@ -85,31 +85,5 @@ Requires:
 Weight: 1
 
 Price: 25,000 gp
-
-========
-
-Legendary Halberd +5
-
-STATISTICS:
-
-Equipped Abilities:
-- Armor Class: +2
-- +10% Resistance to Physical Damage
-
-Combat Abilities:
-- Flashing Guard: Each successful hit improves the wielder's Armor Class by 1 for 4 rounds
-- Skewing Strike: 10% chance on hit to deal 2d12 piercing damage and reduce the target's Armor Class by 10 for 1 round
-
-THAC0: +5
-Damage: 1d10+5 (piercing or slashing)
-Speed Factor: 4
-Proficiency Type: Halberd
-Type: Two-handed
-Requires:
- 13 Strength
-
-Weight: 12
-
-Price: 24,000 gp
 
 ========

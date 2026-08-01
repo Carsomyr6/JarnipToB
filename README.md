@@ -20,4 +20,4 @@ Planned Features
 Changelog
 
 ### August 2026 — v0.0.1
-Repository created. Initial design of four legendary weapons.
+Repository created. Initial design of three legendary weapons.

@@ -12,7 +12,7 @@ STATISTICS:
 
 Equipped abilities:
 - Fire Resistance: +30%
-- Characters of Good or Neutral alignment are executed upon equipping this weapon
+- Characters of Good or Neutral alignment are executed upon equipping this sword
 
 Combat abilities:
 - Touch of Terror: 33% chance on hit to cause the target to panic for 2 rounds

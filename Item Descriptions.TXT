@@ -4,9 +4,9 @@ Item Descriptions
 Bane of the Innocent +5
 The first victims of this sword were not warriors. They were pilgrims. Peasants. Beggars. Those who could not fight back.
 
-It is said that this blade once belonged to an unnamed holy champion who was suddenly stripped of his deity's grace. Instead of seeking penance, he chose the path of vengeance. The slaughter of the followers of his former faith was so great that the screams of his victims became permanently imbued within the blade.
+This forsaken blade once belonged to an unnamed holy champion who was suddenly stripped of his deity's grace. Instead of seeking penance, he chose the path of vengeance. It is said that the slaughter of the followers of his former faith was so great that the screams of his victims became permanently imbued within the blade.
 
-Bane of the Innocent strikes terror into the hearts of those who face it and does not tolerate the touch of the righteous. Only those who follow the path of the antipaladin, or who have become fallen paladins, can wield it.
+Bane of the Innocent strikes terror into the hearts of those who face it and does not tolerate the touch of the righteous. Because of unspeakable atrocities committed with it in the past, only those who follow the path of the antipaladin, or who have become fallen paladins, can wield it.
 
 STATISTICS:
 
@@ -15,8 +15,8 @@ Equipped abilities:
 - Characters of Good or Neutral alignment are executed upon equipping this weapon
 
 Combat abilities:
-- Dooming Presence: 50% chance on hit to cause the target to panic and give a -1 penalty to Armor Class, hit rolls, and damage rolls 2 rounds
-- Dread Vengeance: On a critical hit, all enemies within a 15-ft. radius panic and receive a -2 penalty to Armor Class, hit rolls, and damage rolls for 1 turn
+- Touch of Terror: 33% chance on hit to cause the target to panic for 2 rounds
+- Dooming Presence: 5% chance on hit that all enemies within a 15-ft. radius panic and receive a -2 penalty to Armor Class, hit rolls, and damage rolls for 1 turn
 
 THAC0: +5 
 Damage: 2d4+5 (slashing), +2d4 (fire)
@@ -33,7 +33,7 @@ Price: 40,000 gp
 ========
 
 The Triumphant +4
-Few weapons have inspired as many tales as the Triumphant. According to legend, it first belonged to a barbarian king of Narfell who perished while defending his homeland from an invading horde of demons from the Endless Wastes. The sword was said to have been found on the battlefield after its wielder had single-handedly broken an entire army. No body was ever found. Only the sword remained, lying amid the dead.
+According to legend, the Triumphant first belonged to a barbarian king of Narfell who perished while defending his homeland from an invading horde of demons from the Endless Wastes. The sword was said to have been found on the battlefield after its wielder had single-handedly defeated an entire army. No body was ever found. Only the sword remained, lying amid the dead.
 
 Since that time, The Triumphant has appeared in countless sagas of the northern barbarian tribes, becoming a symbol of might and perseverance. Some say that whoever claims the sword is destined for greatness, while others believe that the blade simply finds those who are worthy of it.
 
@@ -42,11 +42,11 @@ Whatever the truth, those who take up The Triumphant soon discover that even imp
 STATISTICS:
 
 Equipped Abilities:
-- Strength: +4
+- Strength: +2
 
 Combat Abilities:
-- Raging Strike: Critical hits knock the target back and deal an additional 2d12 slashing damage
-- Furious Inspiration: While enraged, increases Armor Class by 4, Critical Strike chance by 5%, and grants an extra attack per round
+- Furious Strikes: Critical hits knock the target back and deal an additional 2d12 slashing damage
+- Heroic Inspiration: While enraged, increases Armor Class by 4, Critical Strike chance by 5%, and grants an extra attack per round
 
 THAC0: +4
 Damage: 1d10+4 (slashing)

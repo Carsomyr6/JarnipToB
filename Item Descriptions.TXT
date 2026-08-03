@@ -32,7 +32,7 @@ Price: 40,000 gp
 
 ========
 
-The Triumphant +4
+The Triumphant +5
 According to legend, The Triumphant first belonged to a barbarian king of Narfell who perished while defending his homeland from an invading horde of demons from the Endless Wastes. The sword was said to have been found on the battlefield after its wielder had single-handedly defeated an entire army. No body was ever found. Only the sword remained, lying amid the dead.
 
 Since that time, The Triumphant has appeared in countless sagas of the northern barbarian tribes, becoming a powerful symbol of might and perseverance. Some say that whoever claims the sword is destined for greatness, while others believe that the blade simply finds those who are worthy of it.
@@ -42,15 +42,15 @@ Whatever the truth, those who take up The Triumphant soon discover that even imp
 STATISTICS:
 
 Equipped Abilities:
-- Strength: +2
+- Strength: +1
 
 Combat Abilities:
 - Furious Strikes: Critical hits knock the target back and deal an additional 2d12 slashing damage
 - Heroic Inspiration: While enraged, increases Armor Class by 4, Critical Strike chance by 5%, and grants an extra attack per round
 
-THAC0: +4
-Damage: 1d10+4 (slashing)
-Speed Factor: 6
+THAC0: +5
+Damage: 1d10+5 (slashing)
+Speed Factor: 5
 Proficiency Type: Two-handed Sword
 Type: Two-handed
 Requires:
@@ -85,5 +85,28 @@ Requires:
 Weight: 1
 
 Price: 25,000 gp
+
+========
+
+Vigilant Guard +4
+Holy Shield of Protection: Vigilant Guard
+This remarkable shield is forged from polished azure steel and bears the holy symbol of Helm. The blessing granted to it by the Vigilant One is truly incredible, as it extends beyond its bearer and protects all allies who stand beside the paladin.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +5
+- Saving Throws: +1
+- Magic Resistance: +5%
+- Aura of Protection: All party members gain:
+   +1 bonus to Armor Class
+   +1 bonus to all saving throws
+   +5% Magic Resistance
+
+Requires:
+ 13 Strength
+ 13 Wisdom
+
+Weight: 8
 
 ========

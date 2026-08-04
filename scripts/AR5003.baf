@@ -1,0 +1,7 @@
+IF
+	Global("JP#2Spawn","MYAREA",0)
+THEN
+	RESPONSE #100
+	CreateCreature("JP#2",[740.340],1)
+	SetGlobal("JP#2Spawn","MYAREA",1)
+END

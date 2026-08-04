@@ -142,7 +142,7 @@ Price: 26,000 gp
 Light of Eldath +5
 Greater Staff of the Woodlands: Light of Eldath
 
-This unique version of the Staff of the Woodlands was a personal gift from the Green Goddess to the High Vychlaran of Rashemen. Blessed by Eldath herself, the staff embodies her peaceful domain, protecting its wielder from harm while calling upon the judgment of the wild against anyone who dares to hurt the druid.
+This unique version of the Staff of the Woodlands was a personal gift from Eldath to the High Vychlaran of Rashemen. Blessed by the Green Goddess herself, the staff embodies her peaceful domain, protecting its wielder from harm while calling upon the judgment of the wild against anyone who dares to hurt the druid.
 
 STATISTICS:
 

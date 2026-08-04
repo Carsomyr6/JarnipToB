@@ -113,17 +113,16 @@ Price: 24,000 gp
 
 ========
 
-Axe of the Worldbreaker +4
-Rumors claim that this adamantine two-handed axe was crafted by the mad wizard Halaster Blackcloak for a mighty minotaur warlord that guarded the entrance to the Undermountain's main treasury. The minotaur was eventually slain by a band of adventurers, who claimed the axe as their prize. What became of the treasure itself remains unknown.
+Bloodseeker Axe +4
+Rumors claim that this adamantine two-handed axe was crafted by the mad wizard Halaster Blackcloak for a berserker minotaur warlord who guarded the entrance to the Undermountain's main treasury. The creature was eventually slain by a band of adventurers, who claimed the axe as their prize. What became of the treasure itself remains unknown.
 
 STATISTICS:
 
 Equipped Abilities:
-- Regenerate 1 Hit Point every round
+- Regenerate 1 Hit Point every 2 seconds
 
 Combat Abilities:
-- Winds of War: Each hit drains 4 Hit Points from the target and transfers it to the wielder. This will not heal beyond the wielder's maximum
-- Welcoming Death: On a Critical Hit, the wielder heals 15 Hit Points and the target must save vs. Death or die
+- Thirst for Blood: Each hit deals an additional 4 slashing damage and heals the wielder for 4 Hit Points. On a critical hit, it deals an additional 15 slashing damage and heals the wielder for 15 Hit Points
 
 THAC0: +4
 Damage: 1d10+4 (slashing)

@@ -1,6 +1,6 @@
 # Jarnip in ToB: A New Merchant in Saradush
 
-MOD VERSION: v0.1.0
+MOD VERSION: v0.1.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
 
 **Introduction**
 

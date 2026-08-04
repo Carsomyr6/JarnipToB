@@ -15,7 +15,7 @@ Equipped abilities:
 - Characters of Good or Neutral alignment are slain upon equipping this sword
 
 Combat abilities:
-- Touch of Terror: 25% chance on hit to cause the target to panic for 2 rounds
+- Touch of Terror: 25% chance on hit to cause the target to panic for 4 rounds
 - Dooming Presence: 5% chance on hit that all enemies within a 15-ft. radius panic and receive a -2 penalty to Armor Class, hit rolls, and damage rolls for 1 turn
 
 THAC0: +4 

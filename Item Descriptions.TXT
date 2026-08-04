@@ -114,7 +114,7 @@ Price: 27,500 gp
 ========
 
 Adamantine Halberd +5
-Rumors claim that this magical halberd was crafted by the mad wizard Halaster Blackcloak for a mighty adamantine golem that guarded the entrance to one of Undermountain's hidden treasuries. The golem was eventually destroyed by a band of adventurers, who claimed the halberd as their prize. What became of the treasure itself remains unknown.
+Rumors claim that this magical halberd was crafted by the mad wizard Halaster Blackcloak for a mighty adamantine golem that guarded the entrance to the Undermountain's main treasury. The golem was eventually destroyed by a band of adventurers, who claimed the halberd as their prize. What became of the treasure itself remains unknown.
 
 STATISTICS:
 
@@ -123,7 +123,7 @@ Equipped Abilities:
 - Physical Damage Resistance: +10%
 
 Combat Abilities:
-- Adamantine Bulwark: Each time the wielder takes damage <HESHE> heals 2 Hit Points and gains +1 Armor Class for 3 rounds
+- Adamantine Strike: 25% chance per hit to deal 2d6 piercing damage and decrease the target's Armor Class by 5 for 2 rounds
 
 THAC0: +5
 Damage: 1d10+5 (slashing or piercing, whichever is better)
@@ -131,6 +131,38 @@ Speed Factor: 4
 Proficiency Type: Halberd
 Type: Two-handed
 Requires:
- 16 Strength
+ 17 Strength
 
-Weight: 15
+Weight: 20
+
+Price: 26,000 gp
+
+========
+
+Light of Eldath +5
+Greater Staff of the Woodlands: Light of Eldath
+This unique version of the Staff of the Woodlands was a personal gift from the Green Goddess to the High Vychlaran of Rashemen. Blessed by Eldath herself, the staff embodies her peaceful domain, protecting its wielder from harm while calling upon the wrath of the wild against anyone who dares to hurt the druid.
+
+STATISTICS:
+
+Equipped Abilities:
+– Fire and Cold Resistance: +30%
+- Armor Class: +2
+- Saving Throws: +1
+- Wisdom: +2
+
+Combat Abilities:
+- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Wand at -2 or suffer 1d6+5 poison damage and become entangled for 4 rounds
+
+THAC0: +5
+Damage: 1d6+5 (crushing)
+Speed Factor: 0
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 10 Dexterity
+ 15 Wisdom
+
+Weight: 4
+
+========

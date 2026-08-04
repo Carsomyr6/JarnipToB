@@ -122,7 +122,7 @@ Equipped Abilities:
 - Regenerate 1 Hit Point every round
 
 Combat Abilities:
-- Winds of War: Each hit drains 3 Hit Points from the target and transfers it to the wielder. This will not heal beyond the wielder's maximum
+- Winds of War: Each hit drains 4 Hit Points from the target and transfers it to the wielder. This will not heal beyond the wielder's maximum
 - Welcoming Death: On a Critical Hit, the wielder heals 15 Hit Points and the target must save vs. Death or die
 
 THAC0: +4

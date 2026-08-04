@@ -42,7 +42,7 @@ Whatever the truth, those who take up The Triumphant soon discover that even imp
 STATISTICS:
 
 Equipped Abilities:
-- Strength: +1
+- Strength: +2
 
 Combat Abilities:
 - Furious Strikes: Critical hits knock the target back and deal an additional 2d12 slashing damage
@@ -54,9 +54,9 @@ Speed Factor: 5
 Proficiency Type: Two-handed Sword
 Type: Two-handed
 Requires:
- 17 Strength
+ 16 Strength
 
-Weight: 20
+Weight: 15
 
 Price: 30,000 gp
 
@@ -113,27 +113,27 @@ Price: 24,000 gp
 
 ========
 
-The Adamant Guardian +5
-Rumors claim that this magical halberd was crafted by the mad wizard Halaster Blackcloak for a mighty adamantine golem that guarded the entrance to the Undermountain's main treasury. The golem was eventually destroyed by a band of adventurers, who claimed the halberd as their prize. What became of the treasure itself remains unknown.
+Axe of the Worldbreaker +4
+Rumors claim that this adamantine two-handed axe was crafted by the mad wizard Halaster Blackcloak for a mighty minotaur warlord that guarded the entrance to the Undermountain's main treasury. The minotaur was eventually slain by a band of adventurers, who claimed the axe as their prize. What became of the treasure itself remains unknown.
 
 STATISTICS:
 
 Equipped Abilities:
-- Armor Class: +2
-- Physical Damage Resistance: +10%
+- Regenerate 1 Hit Point every round
 
 Combat Abilities:
-- Adamantine Strike: 25% chance per hit to deal 2d6 piercing damage and decrease the target's Armor Class by 5 for 2 rounds
+- Winds of War: Each hit drains 3 Hit Points from the target and transfers it to the wielder. This will not heal beyond the wielder's maximum
+- Welcoming Death: On a Critical Hit, the wielder heals 15 Hit Points and the target must save vs. Death or die
 
-THAC0: +5
-Damage: 1d10+5 (slashing or piercing, whichever is better)
-Speed Factor: 4
-Proficiency Type: Halberd
+THAC0: +4
+Damage: 1d10+4 (slashing)
+Speed Factor: 5
+Proficiency Type: Axe
 Type: Two-handed
 Requires:
  17 Strength
 
-Weight: 20
+Weight: 25
 
 Price: 26,000 gp
 

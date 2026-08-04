@@ -63,7 +63,7 @@ Price: 30,000 gp
 ========
 
 Herbert's Gauche +3
-This off-hand dagger originally belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became a subject of innumerable folk tales.
+This off-hand dagger originally belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became a subject of innumerable folk tales. After retiring from adventuring, Herbert settled down in Calimshan and spent his final days surrounded by admirers and courtisans.
 
 STATISTICS:
 

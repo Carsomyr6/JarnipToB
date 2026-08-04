@@ -12,7 +12,7 @@ STATISTICS:
 
 Equipped abilities:
 - Fire Resistance: +30%
-- Characters of Good or Neutral alignment are executed upon equipping this sword
+- Characters of Good or Neutral alignment are slain upon equipping this sword
 
 Combat abilities:
 - Touch of Terror: 33% chance on hit to cause the target to panic for 2 rounds
@@ -113,7 +113,7 @@ Price: 27,500 gp
 
 ========
 
-Adamantine Halberd +5
+The Adamant Guardian +5
 Rumors claim that this magical halberd was crafted by the mad wizard Halaster Blackcloak for a mighty adamantine golem that guarded the entrance to the Undermountain's main treasury. The golem was eventually destroyed by a band of adventurers, who claimed the halberd as their prize. What became of the treasure itself remains unknown.
 
 STATISTICS:
@@ -141,7 +141,8 @@ Price: 26,000 gp
 
 Light of Eldath +5
 Greater Staff of the Woodlands: Light of Eldath
-This unique version of the Staff of the Woodlands was a personal gift from the Green Goddess to the High Vychlaran of Rashemen. Blessed by Eldath herself, the staff embodies her peaceful domain, protecting its wielder from harm while calling upon the wrath of the wild against anyone who dares to hurt the druid.
+
+This unique version of the Staff of the Woodlands was a personal gift from the Green Goddess to the High Vychlaran of Rashemen. Blessed by Eldath herself, the staff embodies her peaceful domain, protecting its wielder from harm while calling upon the judgment of the wild against anyone who dares to hurt the druid.
 
 STATISTICS:
 

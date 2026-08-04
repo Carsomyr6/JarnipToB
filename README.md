@@ -13,7 +13,7 @@ Have you ever felt that your character's equipment does not live up to the epic 
 Planned Features
 
 * Adds Jarnip as a new merchant in Saradush.
-* Introduces six new legendary weapons and six new items.
+* Introduces six new legendary weapons.
 * Designed to integrate seamlessly into a vanilla *Baldur's Gate II: Throne of Bhaal* playthrough.
 * Emphasis on balance and class fantasy.
 

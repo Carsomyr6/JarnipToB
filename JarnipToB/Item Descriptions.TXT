@@ -112,7 +112,7 @@ Price: 24,000 gp
 
 ========
 
-Bloodseeker Axe +4
+Axe of the Worldbreaker +4
 Rumors claim that this adamantine two-handed axe was crafted by the mad wizard Halaster Blackcloak for a berserker minotaur warlord who guarded the entrance to the Undermountain's main treasury. The creature was eventually slain by a band of adventurers, who claimed the axe as their prize. What became of the treasure itself remains unknown.
 
 STATISTICS:

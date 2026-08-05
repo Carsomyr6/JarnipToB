@@ -63,7 +63,7 @@ Price: 30,000 gp
 ========
 
 Herbert's Gauche +3
-This off-hand dagger originally belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became a subject of innumerable folk tales. After retiring from adventuring, Herbert settled down in Calimshan and spent his final days surrounded by admirers and courtesans.
+This off-hand dagger originally belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. After retiring from adventuring, Herbert settled down in Calimshan and spent his final days surrounded by admirers and courtesans.
 
 STATISTICS:
 
@@ -71,8 +71,8 @@ Equipped Abilities:
 - Armor Class: +2
 - Attacks per round: +1
 
-Special Abilities:
-- Casts Mirror Image two times per day
+Combat Abilities:
+- Flashing Guard: On a critical miss, casts Mirror Image on the wielder
 
 THAC0: +3
 Damage: 1d4+3 (piercing)
@@ -143,7 +143,7 @@ This unique greater Staff of the Woodlands was a personal gift from Eldath to th
 STATISTICS:
 
 Equipped Abilities:
-– Fire and Cold Resistance: +20%
+â€“ Fire and Cold Resistance: +20%
 - Armor Class: +2
 - Saving Throws: +1
 - Wisdom: +2

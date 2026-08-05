@@ -246,7 +246,7 @@ Price: 20,000 gp
 
 Herbert's Coat of Fortune +5
 
-This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent he owed largely to this enchanted armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this armor is the dream of any adventurer.
+This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent he owed largely to this armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this armor is the dream of any adventurer.
 
 STATISTICS:
 

@@ -225,3 +225,71 @@ Requires:
  15 Wisdom
 
 Weight: 4 */
+
+COPY ~%MOD_FOLDER%/items/JP#93.itm~ ~override~
+SAY NAME1 @116 /* Helm of the Broken Weave */
+SAY NAME2 @116 /* Helm of the Broken Weave */
+SAY DESC @117 /* Forged by dwarven smiths during an ancient war against the archmages of Netheril, this heavy helm is laced with veins of black meteoric iron that seem to drink in magical energy. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Magic Damage Resistance: +30%
+- Protects against critical hits
+
+Combat abilities:
+- Anti-Magic Aura: Enemy arcane spellcasters cast spells at +2 casting time and suffer 25% spell failure (Wizard Slayer only)
+
+Weight: 2 */
+
+COPY ~%MOD_FOLDER%/items/JP#92.itm~ ~override~
+SAY NAME1 @118 /* Cloak of the Crimson Abbot */
+SAY NAME2 @118 /* Cloak of the Crimson Abbot */
+SAY DESC @119 /* Long ago, this legendary cloak was a hereditary artifact worn by the abbots of the Monastery of the Crimson Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
+
+STATISTICS:
+
+Equipped abilities:
+- Hit Points: +10
+- Attacks per round: +1 (Monk only)
+
+Combat abilities:
+- Scarlet Palm: Each successful melee hit with fists has a 33% chance to stun the target for 1 round (save vs. Spell negates)
+
+Weight: 4 */
+
+COPY ~%MOD_FOLDER%/items/JP#91.itm~ ~override~
+SAY NAME1 @120 /* Robe of Balagos +6 */
+SAY NAME2 @120 /* Robe of Balagos +6 */
+SAY DESC @121 /* This robe was crafted by the legendary red dragon Balagos to wear when he assumed human form. Later, Balagos gifted the robe to the leader of his human worshippers. Woven from heavy Calimshan silk and adorned with the scales of the great wyrm, it contains a fragment of Balagos's own draconic power. Only those touched by dragon blood can unlock the robe's full potential.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 4
+- Decrease casting time by 2
+- Physical Damage resistance: +30% (Red Dragon Disciple only)
+- Fire damage dealt by the wearer: +20% (Red Dragon Disciple only)
+
+Charge abilities:
+- Casts Dragon Breath once per day
+ Damage: 20d10 (Save vs. Breath for half)
+ Area: 15-ft. radius
+ Does not harm party members
+
+Weight: 3 */
+
+COPY ~%MOD_FOLDER%/items/JP#90.itm~ ~override~
+SAY NAME1 @122 /* Girdle of Dwarven Pride */
+SAY NAME2 @122 /* Girdle of Dwarven Pride */
+SAY DESC @123 /* Girdles like this were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their respective clans. Its runes speak of authority and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1 (+2 for Dwarves)
+- Constitution: +1 (+2 for Dwarves)
+- Physical Damage Resistance: +5% (Dwarven Defender only)
+
+Weight: 2 */

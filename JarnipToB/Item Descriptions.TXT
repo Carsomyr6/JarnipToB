@@ -165,3 +165,22 @@ Weight: 4
 Price: 30,000 gp
 
 ========
+
+Helm of the Broken Weave
+Forged by dwarven smiths during an ancient war against the archmages of Netheril, this heavy helm is laced with veins of black meteoric iron that seem to drink in magical energy. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Magic Damage Resistance: +30%
+- Protects against critical hits
+
+Combat abilities:
+- Anti-Magic Aura: Enemy arcane spellcasters cast spells at +2 casting time and suffer 25% spell failure (Wizard Slayer only)
+
+Weight: 2
+
+Price: 15,000 gp
+
+========

@@ -183,14 +183,15 @@ Charge abilities:
  Does not harm party members
 
 Weight: 3~
-@122  = ~Girdle of Dwarven Pride~
-@123  = ~Girdles like this were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their respective clans. Its runes speak of authority and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
+@122  = ~Torm's Gauntlets~
+@123  = ~These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
 
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +1 (+2 for Dwarves)
-- Constitution: +1 (+2 for Dwarves)
-- Physical Damage Resistance: +5% (Dwarven Defender only)
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 1 (Clerics and Paladins only)
+- Divine Casting Level: +1 (Clerics and Paladins only)
 
-Weight: 2~
+Weight: 1~

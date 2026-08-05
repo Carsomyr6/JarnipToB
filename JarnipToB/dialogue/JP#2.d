@@ -1,7 +1,7 @@
 BEGIN ~JP#2~
 
 IF ~True()~ THEN BEGIN Greeting
-  SAY @0 /* Well, well... If it isn't the Bhaalspawn I encountered in Athkatla! I had a feeling our paths would cross again. I was traveling south on business and stopped in Saradush for the night. Now I find myself trapped here with everyone else, while my associates in Calimshan are wondering where their promised deliveries have gone. */
+  SAY @0 /* Well, well... If it isn't the Bhaalspawn I encountered in Athkatla! I had a feeling our paths would cross again. I was traveling south on business and stopped in Saradush for the night. Of course, those damn giants had to choose that very moment to besiege the city! Now I find myself trapped here with everyone else, while my associates in Calimshan are wondering where their promised deliveries have gone. */
   IF ~~ THEN GOTO Offer
 END
 

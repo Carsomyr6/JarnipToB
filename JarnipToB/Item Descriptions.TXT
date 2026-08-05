@@ -62,8 +62,8 @@ Price: 30,000 gp
 
 ========
 
-Herbert's Gauche +3
-This off-hand dagger originally belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. After retiring from adventuring, Herbert settled down in Calimshan and spent his final days in opulence, surrounded by admirers and courtesans. Because the dagger's enchantment requires basic arcane skills, only thieves and bards can use it.
+Gauche of the Crying Eye +3
+This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. It was enchanted to deflect enemy blows, and its sapphire has the power to summon illusory copies of the wielder. Because the dagger's enchantment requires basic understanding of magic, only thieves and bards can use it.
 
 STATISTICS:
 

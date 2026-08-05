@@ -202,3 +202,24 @@ Weight: 4
 Price: 12,000 gp
 
 ========
+
+Robe of Balagos +6
+This powerful robe was crafted by the red dragon Balagos to wear when he assumed human form. Later, Balagos gifted the robe to the leader of his human worshippers. Woven from heavy Calimshan silk and adorned with the scales of the great wyrm, it contains a fragment of Balagos's own draconic power. Only those touched by dragon blood can unlock the robe's full potential.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 4
+- Decrease casting time by 2
+- Physical Damage resistance: +30% (Red Dragon Disciple only)
+- Fire damage dealt by the wearer: +20% (Red Dragon Disciple only)
+
+Charge abilities:
+- Casts Dragon Breath once per day
+ Damage: 20d10 (Save vs. Breath for half)
+ Area: 15-ft. radius
+ Does not harm party members
+
+Weight: 3
+
+========

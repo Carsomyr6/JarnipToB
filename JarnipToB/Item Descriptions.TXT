@@ -177,7 +177,7 @@ Equipped abilities:
 - Protects against critical hits
 
 Combat abilities:
-- Anti-Magic Aura: Enemy arcane spellcasters cast spells at +2 casting time and suffer 20% spell failure (Wizard Slayer only)
+- Anti-Magic Aura: Enemy arcane spellcasters cast spells at +2 casting time and suffer 25% spell failure (Wizard Slayer only)
 
 Weight: 2
 
@@ -195,7 +195,7 @@ Equipped abilities:
 - Attacks per round: +1 (Monk only)
 
 Combat abilities:
-- Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
+- Scarlet Palm: Each successful melee hit with fists has a 33% chance to stun the target for 1 round (save vs. Spell negates)
 
 Weight: 4
 

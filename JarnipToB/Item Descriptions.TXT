@@ -118,6 +118,7 @@ Rumors claim that this adamantine two-handed axe was crafted by the mad wizard H
 STATISTICS:
 
 Equipped Abilities:
+- Immunity to Fear
 - Regenerate 1 Hit Point every 2 seconds
 
 Combat Abilities:

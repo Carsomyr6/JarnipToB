@@ -121,7 +121,7 @@ Equipped Abilities:
 - Regenerate 1 Hit Point every 2 seconds
 
 Combat Abilities:
-- Thirst for Blood: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. On a critical hit, it deals an additional 15 points of slashing damage and heals the wielder for 15 Hit Points. This will not heal beyond the wielder's maximum
+- Thirst for Blood: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. On a critical hit, it deals an additional 12 points of slashing damage and heals the wielder for 12 Hit Points. This will not heal beyond the wielder's maximum
 
 THAC0: +4
 Damage: 1d10+4 (slashing)
@@ -223,5 +223,18 @@ Charge abilities:
 Weight: 3
 
 Price: 35,000 gp
+
+========
+
+Girdles like this were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their respective clans. Its runes speak of authority and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1 (+2 for Dwarves)
+- Constitution: +1 (+2 for Dwarves)
+- Dwarven Stubbornness: When under 50% Hit Points, regenerate 1 Hit Point per 2 seconds (Dwarven Defender only)
+
+Weight: 2
 
 ========

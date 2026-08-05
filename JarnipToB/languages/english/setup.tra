@@ -103,7 +103,7 @@ Equipped Abilities:
 - Regenerate 1 Hit Point every 2 seconds
 
 Combat Abilities:
-- Thirst for Blood: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. On a critical hit, it deals an additional 15 points of slashing damage and heals the wielder for 15 Hit Points. This will not heal beyond the wielder's maximum
+- Thirst for Blood: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. On a critical hit, it deals an additional 12 points of slashing damage and heals the wielder for 12 Hit Points. This will not heal beyond the wielder's maximum
 
 THAC0: +4
 Damage: 1d10+4 (slashing)

@@ -222,7 +222,7 @@ Charge abilities:
 
 Weight: 3
 
-Price: 35,000 gp
+Price: 30,000 gp
 
 ========
 

@@ -281,15 +281,35 @@ Charge abilities:
 Weight: 3 */
 
 COPY ~%MOD_FOLDER%/items/JP#90.itm~ ~override~
-SAY NAME1 @122 /* Girdle of Dwarven Pride */
-SAY NAME2 @122 /* Girdle of Dwarven Pride */
-SAY DESC @123 /* Girdles like this were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their respective clans. Its runes speak of authority and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
+SAY NAME1 @122 /* Torm's Gauntlets */
+SAY NAME2 @122 /* Torm's Gauntlets */
+SAY DESC @123 /* These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
 
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +1 (+2 for Dwarves)
-- Constitution: +1 (+2 for Dwarves)
-- Physical Damage Resistance: +5% (Dwarven Defender only)
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
+- Divine Casting Level: +1 (Clerics and Paladins only)
 
-Weight: 2 */
+Weight: 1 */
+
+COPY ~%MOD_FOLDER%/items/JP#89.itm~ ~override~
+SAY NAME1 @124 /* Herbert's Coat of Fortune +5 */
+SAY NAME2 @122 /* Herbert's Coat of Fortune +5 */
+SAY DESC @125 /* This exceptional studded leather once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent he owed largely to this enchanted armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this armor is the dream of any adventurer.
+
+STATISTICS:
+
+Equipped abilities:
+- Luck: +1 (Swashbuckler only)
+
+Combat abilities:
+- Avoid Death: When the wielder's Hit Points fall below 25%, grants 20 temporary hit points, +5 to saves vs. Death, and immunity to death magic for 1 round. This effect can only occur once every 1 turn.
+
+Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbuckler)
+Requires:
+ 8 Strength
+
+Weight: 10 */

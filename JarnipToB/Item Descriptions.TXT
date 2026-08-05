@@ -234,7 +234,7 @@ STATISTICS:
 Equipped abilities:
 - Armor Class: +1
 - Saving Throws: +1
-- Spell Casting Speed Improved by 1 (Clerics and Paladins only)
+- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
 - Divine Casting Level: +1 (Clerics and Paladins only)
 
 Weight: 1

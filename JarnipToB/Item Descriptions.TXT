@@ -226,6 +226,7 @@ Price: 35,000 gp
 
 ========
 
+Girdle of Dwarven Pride
 Girdles like this were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their respective clans. Its runes speak of authority and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
 
 STATISTICS:
@@ -236,5 +237,7 @@ Equipped abilities:
 - Dwarven Stubbornness: When under 50% Hit Points, regenerate 1 Hit Point per 2 seconds (Dwarven Defender only)
 
 Weight: 2
+
+Price: 10,000 gp
 
 ========

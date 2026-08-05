@@ -184,3 +184,21 @@ Weight: 2
 Price: 15,000 gp
 
 ========
+
+Cloak of the Crimson Abbot
+Long ago, this legendary cloak was a hereditary artifact worn by the abbots of the Monastery of the Crimson Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
+
+STATISTICS:
+
+Equipped abilities:
+- Hit Points: +10
+- Attacks per round: +1 (Monk only)
+
+Combat abilities:
+- Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
+
+Weight: 4
+
+Price: 12,000 gp
+
+========

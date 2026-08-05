@@ -234,7 +234,7 @@ STATISTICS:
 Equipped abilities:
 - Armor Class: +1 (+2 for Dwarves)
 - Constitution: +1 (+2 for Dwarves)
-- Dwarven Stubbornness: When under 50% Hit Points, regenerate 1 Hit Point per 2 seconds (Dwarven Defender only)
+- Physical Damage Resistance: +5% (Dwarven Defender only)
 
 Weight: 2
 

@@ -297,7 +297,7 @@ Weight: 1 */
 
 COPY ~%MOD_FOLDER%/items/JP#89.itm~ ~override~
 SAY NAME1 @124 /* Herbert's Coat of Fortune +5 */
-SAY NAME2 @122 /* Herbert's Coat of Fortune +5 */
+SAY NAME2 @124 /* Herbert's Coat of Fortune +5 */
 SAY DESC @125 /* This exceptional studded leather once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent he owed largely to this enchanted armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this armor is the dream of any adventurer.
 
 STATISTICS:

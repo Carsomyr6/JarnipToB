@@ -1,10 +1,8 @@
 # Jarnip in ToB: A New Merchant in Saradush
 
-MOD VERSION: v0.1.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
+MOD VERSION: v1.0.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
 
 **Introduction**
-
-*This project is currently under development.*
 
 This mod brings **Jarnip**, the merchant introduced in my previous mod, into the *Throne of Bhaal* campaign. Trapped within the besieged city of Saradush, Jarnip is desperate to escape and willing to sell some of the greatest treasures from his collection at a considerable discount.
 
@@ -23,8 +21,5 @@ Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and ru
 
 **Changelog**
 
-August 2026: v0.1.0
-First working version released. Twelve legendary items included.
-
-August 2026: v0.0.1
-Repository created. Initial design of three legendary weapons.
+August 2026: v1.0.0
+First version released. Twelve legendary items included.

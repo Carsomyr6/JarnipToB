@@ -13,7 +13,7 @@ Have you ever felt that your character's equipment does not live up to the epic 
 **Features**
 
 * Adds Jarnip as a new merchant in Saradush
-* Introduces six new legendary weapons and four items
+* Introduces twelve new legendary items
 * Fills the gaps in vanilla game itemization
 * Introduces unique and memorable weapons in the spirit of the original expansion
 

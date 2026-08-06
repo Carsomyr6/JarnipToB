@@ -253,6 +253,7 @@ This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdh
 STATISTICS:
 
 Equipped abilities:
+- Saving Throws: +1
 - Luck: +1 (Swashbuckler only)
 
 Combat abilities:

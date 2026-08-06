@@ -1,6 +1,6 @@
 # Jarnip in ToB: A New Merchant in Saradush
 
-MOD VERSION: v0.1.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
+MOD VERSION: v1.0.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
 
 **Introduction**
 
@@ -21,5 +21,5 @@ Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and ru
 
 **Changelog**
 
-August 2026: v0.1.0
+August 2026: v1.0.0
 First version released. Twelve legendary items included.

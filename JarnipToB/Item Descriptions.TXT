@@ -42,7 +42,8 @@ Whatever the truth, those who take up The Triumphant soon discover that even imp
 STATISTICS:
 
 Equipped Abilities:
-- Strength: +2
+- Strength: +1
+- Constitution: +1
 
 Combat Abilities:
 - Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Strike chance by 5%, and grants an extra attack per round

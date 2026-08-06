@@ -214,3 +214,30 @@ Requires:
  8 Strength
 
 Weight: 10~
+@122  = ~Torm's Gauntlets~
+@123  = ~These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
+- Divine Casting Level: +1 (Clerics and Paladins only)
+
+Weight: 1~
+@126  = ~Nethraval's Legacy~
+@127  = ~Lesser Crown of Netheril: Nethraval's Legacy
+
+This ancient and powerful artifact was forged during the height of the Netheril empire by the archmage Nethraval. It is said that crowns like this allowed Netherese arcanists to wield magic independently of the Weave, and even challenge and control deities. While this appears to be a lesser version of the Netherese crowns, the power it grants the wearer is beyond incredible.
+
+STATISTICS:
+
+Equipped abilities:
+- Intelligence: +2
+- Wisdom: +2
+- Saving Throws vs. Spell: +2
+- Spell Casting Speed Improved by 2 (Specialist Mages only)
+- Arcane Casting Level: +2 (Specialist Mages only)
+
+Weight: 1~

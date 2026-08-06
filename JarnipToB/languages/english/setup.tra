@@ -11,7 +11,7 @@ Bane of the Innocent strikes terror into the hearts of those who face it and doe
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Fire Resistance: +20%
 - Characters of Good or Neutral alignment are slain upon equipping this sword
 
@@ -55,7 +55,7 @@ Requires:
 
 Weight: 15~
 @108  = ~Neverwinter Sapphire +3~
-@109  = ~This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. It originally belonged to Sir Arlon Vey, a celebrated adventurer and arcane trickster who served among the Neverwinter Nine. Arlon fell defending the city during one of its wars against Luskan, and his dagger was preserved as a symbol of courage and sacrifice. Because its enchantment requires a basic understanding of magic, only thieves, bards, and fighter/mages can use it.
+@109  = ~This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. It originally belonged to Sir Arlon Vey, a celebrated adventurer and arcane trickster who served among the Neverwinter Nine. Arlon fell while defending the city during one of its wars against Luskan, and his dagger was preserved as a symbol of courage and sacrifice. Because its enchantment requires a basic understanding of magic, only thieves, bards, and fighter/mages can use it.
 
 STATISTICS:
 
@@ -82,7 +82,7 @@ This intricately decorated shield is forged from polished azure steel and bears 
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Armor Class: +5
 - Saving Throws: +1
 - Magic Resistance: +10%
@@ -145,7 +145,7 @@ Weight: 4~
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Armor Class: +1
 - Magic Damage Resistance: +30%
 - Protects against critical hits
@@ -159,7 +159,7 @@ Weight: 2~
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Hit Points: +10
 - Attacks per round: +1 (Monk only)
 
@@ -168,11 +168,11 @@ Combat abilities:
 
 Weight: 4~
 @120  = ~Robe of Balagos~
-@121  = ~The legendary red dragon Balagos crafted this exquisite robe to wear whenever he assumed human form, and later gifted it to his human worshippers. Woven from heavy Calimshan silk and adorned with the scales of the great wyrm, it is imbued with Balagos's power and is said to recognize the draconic blood of those who wear it.
+@121  = ~The legendary red dragon Balagos crafted this exquisite robe to wear whenever he assumed human form and later gifted it to his human worshippers. Woven from heavy Calimshan silk and adorned with the scales of the great wyrm, it is imbued with Balagos's power and is said to recognize the draconic blood of those who wear it.
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Armor Class: 4
 - Decrease casting time by 2
 - Physical Damage resistance: +30% (Red Dragon Disciple only)
@@ -190,7 +190,7 @@ Weight: 3~
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Armor Class: +1
 - Saving Throws: +1
 - Spell Casting Speed Improved by 2 (Clerics and Paladins only)
@@ -202,11 +202,11 @@ Weight: 1~
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Saving Throws: +1
 - Luck: +1 (Swashbuckler only)
 
-Combat abilities:
+Combat Abilities:
 - Casts Avoid Death when the wearer's Hit Points fall below 10%: grants 20 temporary hit points, +5 to saves vs. Death, and immunity to death magic for 1 round
 
 Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbuckler)
@@ -221,7 +221,7 @@ This ancient artifact was forged during the height of the Netheril empire by the
 
 STATISTICS:
 
-Equipped abilities:
+Equipped Abilities:
 - Intelligence: +2
 - Wisdom: +2
 - Saving Throws vs. Spell: +2

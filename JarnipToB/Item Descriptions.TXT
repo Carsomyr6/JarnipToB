@@ -113,7 +113,7 @@ Price: 24,000 gp
 ========
 
 Axe of the Worldbreaker +4
-Rumors claim that this adamantine two-handed axe was crafted by the mad wizard Halaster Blackcloak for a berserker minotaur warlord who guarded the entrance to the Undermountain's main treasury. The creature was eventually slain by a band of adventurers, who claimed the axe as their prize. What became of the treasure itself remains unknown.
+This mighty adamantine two-handed axe once belonged to Blaiz the Worldbreaker, a giant warlord who once terrorized the Spine of the World. After gathering an army of ogres, trolls, and orcs, Blaiz marched south, leaving a trail of destruction in his wake. His reign finally ended when a band of adventurers from Luskan slew him in battle and claimed the axe as their prize.
 
 STATISTICS:
 
@@ -122,7 +122,8 @@ Equipped Abilities:
 - Regenerate 1 Hit Point every 2 seconds
 
 Combat Abilities:
-- Thirst for Blood: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. On a critical hit, it deals an additional 12 points of slashing damage and heals the wielder for 12 Hit Points. This will not heal beyond the wielder's maximum
+- Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
+- The World Crumbles: Critical hits deal an additional 10 points of slashing damage and heal the wielder for 10 Hit Points. The target must Save vs. Death at -2 or be stunned for 1 round
 
 THAC0: +4
 Damage: 1d10+4 (slashing)

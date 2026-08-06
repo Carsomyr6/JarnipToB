@@ -113,16 +113,17 @@ Price: 24,000 gp
 ========
 
 Axe of the Worldbreaker +4
-This mighty adamantine two-handed axe belonged to Blaiz the Worldbreaker, a giant warlord who once established a kingdom in the Spine of the World. After gathering an army of ogres, trolls, and orcs, Blaiz marched south, leaving a trail of destruction in his wake. His reign of terror finally ended when a band of adventurers from Targos slew him in battle and claimed the axe as their prize.
+This mighty adamantine two-handed axe belonged to Blaiz the Worldbreaker, a giant warlord who once established a kingdom in the Spine of the World. After gathering an army of ogres, trolls, and orcs, Blaiz marched south, leaving a trail of destruction in his wake. His reign of terror finally ended when a band of adventurers from Luskan slew him in battle and claimed the axe as their prize.
 
 STATISTICS:
 
 Equipped Abilities:
 - Immunity to Fear
+- Regenerates 1 HP every 2 seconds
 
 Combat Abilities:
 - Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- The World Crumbles: Critical hits deal an additional 10 points of slashing damage and heal the wielder for 10 Hit Points. The target must Save vs. Death at -2 or be stunned for 1 round
+- Worldbreaker: Critical hits deal an additional 10 points of slashing damage and heal the wielder for 10 Hit Points. The target must Save vs. Death at -2 or be stunned for 1 round
 
 THAC0: +4
 Damage: 1d12+4 (slashing)

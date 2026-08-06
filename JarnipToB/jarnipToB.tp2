@@ -314,7 +314,7 @@ Requires:
 
 Weight: 10 */
 
-COPY ~%MOD_FOLDER%/items/JP#89.itm~ ~override~
+COPY ~%MOD_FOLDER%/items/JP#88.itm~ ~override~
 SAY NAME1 @126 /* Nethraval's Legacy */
 SAY NAME2 @126 /* Nethraval's Legacy */
 SAY DESC @127 /* Lesser Crown of Netheril: Nethraval's Legacy

@@ -152,7 +152,7 @@ Equipped Abilities:
 - Wisdom: +2
 
 Combat Abilities:
-- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Wand at -2 or suffer 1d6+5 poison damage and become entangled for 4 rounds
+- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Wand at -2 or suffer 1d10+5 poison damage and become entangled for 4 rounds
 
 THAC0: +5
 Damage: 1d6+5 (crushing)

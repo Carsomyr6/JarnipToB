@@ -205,7 +205,7 @@ Price: 12,000 gp
 ========
 
 Robe of Balagos
-The legendary red dragon Balagos crafted this exquisite robe to wear whenever he assumed human form. Later, he gifted it to his human worshippers. Woven from heavy Calimshan silk and adorned with the scales of the great wyrm, it is imbued with Balagos's power and is said to recognize the draconic blood of those who wear it.
+The legendary red dragon Balagos crafted this exquisite robe to wear whenever he assumed human form, and later gifted it to his human worshippers. Woven from heavy Calimshan silk and adorned with the scales of the great wyrm, it is imbued with Balagos's power and is said to recognize the draconic blood of those who wear it.
 
 STATISTICS:
 

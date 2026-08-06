@@ -62,8 +62,8 @@ Price: 30,000 gp
 
 ========
 
-Gauche of the Crying Eye +3
-This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. It was enchanted to deflect enemy blows, and its sapphire has the power to summon illusory copies of the wielder. Because the dagger's enchantment requires basic understanding of magic, only thieves and bards can use it.
+Neverwinter Sapphire +3
+This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. The dagger is enchanted to deflect enemy blows, and its sapphire has the power to summon illusory copies of the wielder. Because its enchantment requires a basic understanding of magic, only thieves and bards can use it.
 
 STATISTICS:
 
@@ -72,7 +72,7 @@ Equipped Abilities:
 - Attacks per round: +1
 
 Combat Abilities:
-- Flashing Guard: On a critical miss, casts Mirror Image on the wielder
+- Sapphire Guard: On a critical miss, casts Mirror Image on the wielder
 
 THAC0: +3
 Damage: 1d4+3 (piercing)

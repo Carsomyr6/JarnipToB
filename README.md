@@ -24,7 +24,7 @@ Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and ru
 **Changelog**
 
 August 2026: v0.1.0
-First working version released. Six legendary weapons included.
+First working version released. Twelve legendary items included.
 
 August 2026: v0.0.1
 Repository created. Initial design of three legendary weapons.

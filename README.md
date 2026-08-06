@@ -2,6 +2,8 @@
 
 MOD VERSION: v0.1.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
 
+_This project is a work in progress._
+
 **Introduction**
 
 This mod brings **Jarnip**, the merchant introduced in my previous mod, into the *Throne of Bhaal* campaign. Trapped within the besieged city of Saradush, Jarnip is desperate to escape and willing to sell some of the greatest treasures from his collection at a considerable discount.

@@ -126,7 +126,7 @@ Combat Abilities:
 - The World Crumbles: Critical hits deal an additional 10 points of slashing damage and heal the wielder for 10 Hit Points. The target must Save vs. Death at -2 or be stunned for 1 round
 
 THAC0: +4
-Damage: 1d10+4 (slashing)
+Damage: 1d12+4 (slashing)
 Speed Factor: 5
 Proficiency Type: Axe
 Type: Two-handed

@@ -90,7 +90,7 @@ Price: 22,000 gp
 ========
 
 Holy Shield of Protection +4: Vigilant Eye
-This remarkable shield is forged from polished azure steel and bears the holy symbol of Helm. The blessing granted to it by the Vigilant One is truly incredible, as it extends beyond its bearer and protects all allies who stand beside the paladin.
+The polished azure steel and sacred silver ornaments make it immediately clear that this shield originally belonged to a senior Shield Knight in the service of Helm. Its rim bears an engraved prayer to the Vigilant One, calling for aid for the Helmite Church and all its servants. The blessing granted to this shield by Helm is truly incredible, as it not only protects its bearer but also safeguards all allies who stand beside the paladin.
 
 STATISTICS:
 

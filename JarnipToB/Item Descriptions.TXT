@@ -280,3 +280,6 @@ Equipped abilities:
 - Arcane Casting Level: +2 (Specialist Mages only)
 
 Weight: 1
+
+Price: 40,000 gp
+

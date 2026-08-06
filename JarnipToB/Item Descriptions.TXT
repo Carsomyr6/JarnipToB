@@ -121,7 +121,6 @@ STATISTICS:
 
 Equipped Abilities:
 - Immunity to Fear
-- Regenerate 1 Hit Point every 2 seconds
 
 Combat Abilities:
 - Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
@@ -181,7 +180,7 @@ Equipped abilities:
 - Protects against critical hits
 
 Combat abilities:
-- Anti-Magic Aura: Enemy arcane spellcasters within 30 ft. cast spells at +2 casting time and suffer 25% spell failure (Wizard Slayer only)
+- Enemy arcane spellcasters within 30 ft. cast spells at +2 casting time and suffer 25% spell failure (Wizard Slayer only)
 
 Weight: 2
 
@@ -199,7 +198,7 @@ Equipped abilities:
 - Attacks per round: +1 (Monk only)
 
 Combat abilities:
-- Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
+- Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
 
 Weight: 4
 
@@ -257,7 +256,7 @@ Equipped abilities:
 - Luck: +1 (Swashbuckler only)
 
 Combat abilities:
-- Avoid Death: When the wielder's Hit Points fall below 25%, grants 20 temporary hit points, +5 to saves vs. Death, and immunity to death magic for 1 round. This effect can only occur once every 1 turn
+- Casts Avoid Death when the wielder's Hit Points fall below 25%: grants 20 temporary hit points, +5 to saves vs. Death, and immunity to death magic for 1 round. This effect can only occur once every 1 turn
 
 Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbuckler)
 Requires:

@@ -55,7 +55,9 @@ Requires:
 
 Weight: 15~
 @108  = ~Neverwinter Sapphire +3~
-@109  = ~This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. It belonged to Sir Arlon Vey, a renowned adventurer and arcane trickster who served among the Neverwinter Nine. Arlon fell defending the city during one of its wars against Luskan, and his dagger was preserved as a symbol of the courage and sacrifice of Neverwinter's citizens. The weapon is enchanted to deflect enemy blows, and its sapphire has the power to summon illusory copies of the wielder. Because its enchantment requires a basic understanding of magic, only thieves, bards, and fighter/mages can use it.
+@109  = ~This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. It belonged to Sir Arlon Vey, a renowned adventurer and arcane trickster who served among the Neverwinter Nine. Arlon fell defending the city during one of its wars against Luskan, and his dagger was preserved as a symbol of the courage and sacrifice of Neverwinter's citizens.
+
+The weapon is enchanted to deflect enemy blows, and its sapphire has the power to summon illusory copies of the wielder. Because its enchantment requires a basic understanding of magic, only thieves, bards, and fighter/mages can use it.
 
 STATISTICS:
 
@@ -217,7 +219,7 @@ Weight: 10~
 @126  = ~Nethraval's Legacy~
 @127  = ~Lesser Crown of Netheril: Nethraval's Legacy
 
-This ancient artifact was forged during the height of the Netheril empire by the archmage Nethraval. It is said that the most powerful crowns allowed Netherese arcanists to wield magic independently of the Weave, and even control deities. While this appears to be a lesser version of the Netherese crowns, the power it grants the wearer is beyond incredible.
+This ancient artifact was forged during the height of the Netheril empire by the archmage Nethraval. It is said that the most powerful crowns allowed Netherese arcanists to wield magic independently of the Weave, and even control deities. While this appears to be a lesser version of the Netherese crowns, the power it grants the wearer is still beyond incredible.
 
 STATISTICS:
 

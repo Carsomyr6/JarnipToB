@@ -199,7 +199,7 @@ Equipped abilities:
 - Attacks per round: +1 (Monk only)
 
 Combat abilities:
-- Scarlet Palm: Each successful melee hit with fists has a 33% chance to stun the target for 1 round (save vs. Spell negates)
+- Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
 
 Weight: 4
 

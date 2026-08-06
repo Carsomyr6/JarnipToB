@@ -214,18 +214,6 @@ Requires:
  8 Strength
 
 Weight: 10~
-@122  = ~Torm's Gauntlets~
-@123  = ~These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
-
-STATISTICS:
-
-Equipped abilities:
-- Armor Class: +1
-- Saving Throws: +1
-- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
-- Divine Casting Level: +1 (Clerics and Paladins only)
-
-Weight: 1~
 @126  = ~Nethraval's Legacy~
 @127  = ~Lesser Crown of Netheril: Nethraval's Legacy
 

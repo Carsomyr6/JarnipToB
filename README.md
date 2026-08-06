@@ -17,7 +17,7 @@ Have you ever felt that your character's equipment does not live up to the epic 
 
 **Installation**
 
-Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and run Setup-Jarnip.exe.
+Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and run Setup-JarnipToB.exe.
 
 **Changelog**
 

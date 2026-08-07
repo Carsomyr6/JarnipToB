@@ -141,20 +141,23 @@ Requires:
  15 Wisdom
 
 Weight: 4~
-@116  = ~Helm of the Broken Weave~
-@117  = ~Forged by dwarven smiths during an ancient war against the archmages of Netheril, this heavy helm is laced with veins of black meteoric iron that seem to drink in magical energy. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
+@116  = ~The Weavebreaker~
+@117  = ~This heavy amulet is forged from black meteoric iron that seems to absorb the magical energy surrounding it. Legends claim that, during the final years of the ancient wars against Netheril, dwarven smiths discovered a unique meteoric ore with innate antimagic properties. From this metal they forged a handful of relics, each entrusted to champions tasked with hunting the greatest Netherese arcanists.
+
+Because the power of this amulet stems not from enchantment but from the unique properties of the ancient dwarven metal, it is one of the few magical items that Wizard Slayers can effectively use.
 
 STATISTICS:
 
-Equipped Abilities:
+Equipped abilities:
 - Armor Class: +1
+- Magic Resistance: +5%
 - Magic Damage Resistance: +30%
-- Protects against critical hits
+- Prevents the wearer from casting spells
 
 Combat abilities:
 - Enemy spellcasters within 30 ft. cast spells at +2 casting time and suffer 25% arcane spell failure (Wizard Slayer only)
 
-Weight: 2~
+Weight: 3~
 @118  = ~Cloak of the Crimson Abbot~
 @119  = ~Long ago, this legendary cloak was a hereditary artifact worn by the abbots of the Monastery of the Crimson Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
 

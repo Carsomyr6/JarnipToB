@@ -4,7 +4,7 @@ MOD VERSION: v1.0.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
 
 **Introduction**
 
-This mod brings **Jarnip**, the merchant introduced in my previous mod, into the *Throne of Bhaal* campaign. Trapped within the besieged city of Saradush, Jarnip is desperate to escape and willing to sell some of the greatest treasures from his collection at a considerable discount.
+This mod brings **Jarnip**, the merchant introduced in my previous mod, into the *Throne of Bhaal* campaign. Trapped within Saradush, Jarnip is desperate to escape the besieged city and willing to sell some of the greatest treasures from his collection at a considerable discount.
 
 Have you ever felt that your character's equipment does not live up to the epic scale of Throne of Bhaal? Why do some classes get iconic legendary gear while others are left behind? To address this issue, this mod introduces twelve new legendary, artifact-quality items worthy of a Bhaalspawn on the path to ascension. Rather than simply adding more powerful alternatives to existing iconic weapons, this mod is intended to fill the gaps in the vanilla game itemization while providing new options to neglected classes and item categories. 
 

@@ -168,20 +168,23 @@ Price: 30,000 gp
 
 ========
 
-Helm of the Broken Weave
-Forged by dwarven smiths during an ancient war against the archmages of Netheril, this heavy helm is laced with veins of black meteoric iron that seem to drink in magical energy. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
+The Weavebreaker
+This heavy amulet is forged from black meteoric iron that seems to absorb the magical energy surrounding it. Legends claim that, during the final years of the ancient wars against Netheril, dwarven smiths discovered a unique meteoric ore with innate antimagic properties. From this metal they forged a handful of relics, each entrusted to champions tasked with hunting the greatest Netherese arcanists.
+
+Because the power of this amulet stems not from enchantment but from the unique properties of the ancient dwarven metal, it is one of the few magical items that Wizard Slayers can effectively use.
 
 STATISTICS:
 
 Equipped abilities:
 - Armor Class: +1
+- Magic Resistance: +5%
 - Magic Damage Resistance: +30%
-- Protects against critical hits
+- Prevents the wearer from casting spells
 
 Combat abilities:
 - Enemy spellcasters within 30 ft. cast spells at +2 casting time and suffer 25% arcane spell failure (Wizard Slayer only)
 
-Weight: 2
+Weight: 3
 
 Price: 15,000 gp
 

@@ -206,7 +206,7 @@ Price: 12,000 gp
 ========
 
 Robe of Balagos
-This opulent red robe was crafted by the legendary dragon Balagos for his use whenever he assumed a human form. He later gifted it to a group of his human worshippers as a reward for slaying a rival silver dragon. Woven from heavy Calimshan silk and adorned with the scales of a great wyrm, the robe still channels Balagos's power and is said to recognize whether its wearer is of draconic descent.
+This opulent red robe was crafted by the legendary dragon Balagos for his use whenever he assumed a human form. He later gifted it to a group of his human worshippers as a reward. Woven from heavy Calimshan silk and adorned with the scales of a great wyrm, the robe still channels Balagos's power and is said to recognize whether its wearer is of draconic descent.
 
 STATISTICS:
 
@@ -247,7 +247,7 @@ Price: 20,000 gp
 
 Herbert's Coat +5
 
-This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic coat. Durable, lightweight, and enchanted with a permanent blessing of fortune, this armor is the dream of any adventurer.
+This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this coat is the dream of any adventurer.
 
 STATISTICS:
 

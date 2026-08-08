@@ -1,4 +1,6 @@
-# Jarnip in ToB: A New Merchant in Saradush
+**Jarnip in ToB: A New Merchant in Saradush**
+
+# Attention: this mod has been discontinued and merged with Jarnip for BG2. For the newest release, see: https://github.com/Carsomyr6/Jarnip
 
 MOD VERSION: v1.0.0 AUTHOR: Rzabon GAME: BG2, BG2EE, EET
 
